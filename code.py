@@ -6,7 +6,7 @@ from sklearn.metrics import accuracy_score, classification_report
 import joblib
 
 # Load dataset
-data = pd.read_csv(enter you dataset)
+data = pd.read_csv(r"C:\Users\USER\Desktop\stress\stress_level.csv")
 
 # Check for missing values and duplicates
 print(data.isnull().sum())
