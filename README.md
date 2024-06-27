@@ -1,3 +1,5 @@
+Input fields are provided for skin response (sr), respiratory rate (rr), temperature (t), limb movement (lm), blood oxygen (bo), rapid eye movement (rem), sleeping hours (sh), and heart rate (hr). After entering the data, click the "Predict Stress Level" button to see the predicted stress level. The app also provides buttons to download the trained model (stress_level_model.pkl) and scaler.
+
 # 📊 Data evaluation template
 
 A simple Streamlit app showing how to evaluate and annotate data, using dataframes
